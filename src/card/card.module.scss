@@ -11,11 +11,15 @@
   border-radius: 20px;
   box-shadow: 9px 9px 0 black;
   transition: box-shadow 0.8s ease;
+  cursor: pointer;
 
   &:hover {
     box-shadow: 14px 14px 0 black;
   }
   &:hover .title {
+    color: #f4d04e;
+  }
+  &:focus .title {
     color: #f4d04e;
   }
 }

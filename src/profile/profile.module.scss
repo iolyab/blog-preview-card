@@ -1,0 +1,18 @@
+.profile {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+
+.profilePhoto {
+  width: 35px;
+  height: 35px;
+  object-fit: cover;
+}
+
+.profileName {
+  font-size: 14px;
+  font-weight: 950;
+  color: #111111;
+}

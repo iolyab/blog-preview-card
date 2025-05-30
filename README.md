@@ -28,7 +28,6 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution here](https://github.com/iolyab/blog-preview-card)
-- Live Site URL: [Live Site here](https://your-live-site-url.com)
 
 ## My process
 
